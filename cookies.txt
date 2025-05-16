@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fe9ucynqde.app.youware.com	TRUE	/	FALSE	1999999999	AWSALB	xy8Yom0DQjXugnjQj0S+/eBJh4V7Z/4wg/VSZZm/ze8/QOFtC08gnDX+EH22wD+jAIGZKL32cTUFiQbZvHrsJs0I06KJUnd4sBhhPfC7Fr3HkQCVkWpgeWEZhqP+
+fe9ucynqde.app.youware.com	TRUE	/	FALSE	1999999999	AWSALBCORS	xy8Yom0DQjXugnjQj0S+/eBJh4V7Z/4wg/VSZZm/ze8/QOFtC08gnDX+EH22wD+jAIGZKL32cTUFiQbZvHrsJs0I06KJUnd4sBhhPfC7Fr3HkQCVkWpgeWEZhqP+
+fe9ucynqde.app.youware.com	TRUE	/	FALSE	1999999999	SameSite	None
+
